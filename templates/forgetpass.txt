@@ -1,0 +1,10 @@
+Dear, User
+
+To reset password please use this code:
+
+{{ otp }}
+
+
+Sincerely
+
+WomenCo Support Team
